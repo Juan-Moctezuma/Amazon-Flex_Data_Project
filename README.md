@@ -66,4 +66,5 @@ covers the following fields: business analytics, data engineering, and data scie
 1. Applied Mathematics (for the KPI Mathematical Definition's Development)
 2. Statistics (required for the understanding and application of Data Science Methods)
 3. Programming (Python 3)
-4. Business Acumen
+4. Data Analytics
+5. Business Acumen
