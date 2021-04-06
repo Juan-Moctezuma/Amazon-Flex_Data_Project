@@ -7,8 +7,8 @@ Once the block and starting point is chosen in the Job Offers section, the deliv
 to load the customers’ orders. Routes / delivery locations associated with each block are randomly assigned to contractors once these 
 individuals arrive to the loading zone. The Amazon Flex Data Project is based on data that is manually compiled by an Amazon Delivery 
 Contractor. After a series of observations and patterns, the author decided to compile information related to gasoline expenses, mileage, 
-delivery performance, shift duration, total package number per block, etc. This project covers the following fields: business analytics, data engineering, and 
-data science.
+delivery performance, shift duration, total package number per block, etc. The 'Raw Data' serves as a building block for this project, which
+covers the following fields: business analytics, data engineering, and data science.
 
 ### Quick (MAIN) Links
 1. Presentation (PDF - PREFERRED: PLEASE CLICK): https://github.com/Juan-Moctezuma/Amazon-Flex_Data_Project/blob/main/Amazon-Flex_Data_Project.pdf
@@ -66,3 +66,4 @@ data science.
 1. Applied Mathematics (for the KPI Mathematical Definition's Development)
 2. Statistics (required for the understanding and application of Data Science Methods)
 3. Programming (Python 3)
+4. Business Acumen
