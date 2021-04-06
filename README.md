@@ -11,7 +11,7 @@ delivery performance, shift duration, total package number per block, etc. This 
 data science.
 
 ### Quick Links
-1. Presentation (PDF - PREFERRED): https://github.com/Juan-Moctezuma/Amazon-Flex_Data_Project/blob/main/Amazon-Flex_Data_Project.pdf
+1. Presentation (PDF - PREFERRED: ```diff - PLEASE CLICK```): https://github.com/Juan-Moctezuma/Amazon-Flex_Data_Project/blob/main/Amazon-Flex_Data_Project.pdf
 2. Presentation (PowerPoint): https://github.com/Juan-Moctezuma/Amazon-Flex_Data_Project/blob/main/Amazon-Flex_Data_Project.pptx
 
 ### Jupyter Notebook Links - Data Engineering
@@ -34,7 +34,7 @@ data science.
    * Excel
    * PowerPoint
 2. Jupyter Notebook (Python 3)
-3. Python Analytics and Data Science Libraries:
+3. Python 3 Main Libraries:
    * fbprophet
    * numpy
    * pandas
@@ -46,7 +46,23 @@ data science.
    * sklearn
    * math
    * FastAPI
-   
-  ### Other Knowledge
-  1. Applied Mathematics (for the KPI Mathematical Definition's Development)
-  2. Statistics (required for the understanding and application of Data Science Methods)
+
+### Outcomes
+1. ETL Data Pipeline
+2. REST API (Not Public - only image)
+3. Dashboards:
+   * KPI Development and Application - Report
+   * Fuel Metrics Data Analysis - Report
+   * Data Science Visual Summary
+4. Application of Data Science Techniques: 
+   * Time Series Analysis
+   * Time Series Forecasting
+   * Simple Linear Regression
+   * Logistic Regression
+   * Statistical Hypothesis Testing
+   * Clustering Analysis
+  
+### Other Knowledge - Prerequisite
+1. Applied Mathematics (for the KPI Mathematical Definition's Development)
+2. Statistics (required for the understanding and application of Data Science Methods)
+3. Programming (Python 3)
