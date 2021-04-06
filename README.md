@@ -66,7 +66,7 @@ covers the following fields: business analytics, data engineering, and data scie
    * Statistical Hypothesis Testing
    * Clustering Analysis
   
-### Other Knowledge - Prerequisite
+### Other Knowledge
 1. Applied Mathematics (for the KPI Mathematical Definition's Development)
 2. Statistics (required for the understanding and application of Data Science Methods)
 3. Programming (Python 3)
