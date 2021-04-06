@@ -64,6 +64,7 @@ covers the following fields: business analytics, data engineering, and data scie
    * Logistic Regression
    * Statistical Hypothesis Testing
    * Clustering Analysis
+5. Amazon Flex - IOS Mobile App
   
 ### Other Knowledge - Prerequisite
 1. Applied Mathematics (for the KPI Mathematical Definition's Development)
