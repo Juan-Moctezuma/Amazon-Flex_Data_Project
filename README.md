@@ -1,1 +1,52 @@
-# Amazon-Flex_Data_Project
+# Amazon Flex Data Science & Analytics Project
+
+### Introduction
+Amazon’s Flex program hires qualified individuals as delivery partners or independent contractors to deliver Amazon orders.
+Every contractor uses his/her vehicle to work the available block that he/she selects throughout Amazon Flex’s mobile application. 
+Once the block and starting point is chosen in the Job Offers section, the delivery partner must show up to the selected warehouse 
+to load the customers’ orders. Routes / delivery locations associated with each block are randomly assigned to contractors once these 
+individuals arrive to the loading zone. The Amazon Flex Data Project is based on data that is manually compiled by an Amazon Delivery 
+Contractor. After a series of observations and patterns, the author decided to compile information related to gasoline expenses, mileage, 
+delivery performance, shift duration, total package number per block, etc. This project covers the following fields: business analytics, data engineering, and 
+data science.
+
+### Quick Links
+1. Presentation (PDF - PREFERRED): https://github.com/Juan-Moctezuma/Amazon-Flex_Data_Project/blob/main/Amazon-Flex_Data_Project.pdf
+2. Presentation (PowerPoint): https://github.com/Juan-Moctezuma/Amazon-Flex_Data_Project/blob/main/Amazon-Flex_Data_Project.pptx
+
+### Jupyter Notebook Links - Data Engineering
+1. API Result: https://github.com/Juan-Moctezuma/Amazon-Flex_Data_Project/blob/main/DATA_ENGINEERING/API/API_RESULTS/API_Results.pdf
+2. Data Pipe: https://nbviewer.jupyter.org/github/Juan-Moctezuma/Amazon-Flex_Data_Project/blob/main/DATA_ENGINEERING/ETL_Data_Pipeline/Extract-Transform-Load_Pipe.ipynb
+
+### Jupyter Notebook Links - Data Science
+1. Time Series: https://nbviewer.jupyter.org/github/Juan-Moctezuma/Amazon-Flex_Data_Project/blob/main/DATA_SCIENCE/DS_TECHNIQUES/Time_Series.ipynb
+2. Linear Regression: https://nbviewer.jupyter.org/github/Juan-Moctezuma/Amazon-Flex_Data_Project/blob/main/DATA_SCIENCE/DS_TECHNIQUES/Linear_Regression.ipynb
+3. Logistic Regression: https://nbviewer.jupyter.org/github/Juan-Moctezuma/Amazon-Flex_Data_Project/blob/main/DATA_SCIENCE/DS_TECHNIQUES/Logistic_Regression.ipynb
+4. Hypothesis Testing: https://nbviewer.jupyter.org/github/Juan-Moctezuma/Amazon-Flex_Data_Project/blob/main/DATA_SCIENCE/DS_TECHNIQUES/Hypothesis_Testing.ipynb
+5. Clustering Analysis: https://nbviewer.jupyter.org/github/Juan-Moctezuma/Amazon-Flex_Data_Project/blob/main/DATA_SCIENCE/DS_TECHNIQUES/Clustering_Analysis.ipynb
+
+### Jupyter Notebook Links - Dashboards
+1. KPI & Fuel Metrics: https://nbviewer.jupyter.org/github/Juan-Moctezuma/Amazon-Flex_Data_Project/blob/main/DATA_SCIENCE/DASHBOARD/KPI_and_Fuel_Metrics.ipynb
+2. Data Science Visual Summary: https://nbviewer.jupyter.org/github/Juan-Moctezuma/Amazon-Flex_Data_Project/blob/main/DATA_SCIENCE/DASHBOARD/Data_Science-Dashboard.ipynb
+
+### Technologies
+1. Microsoft Office:
+   * Excel
+   * PowerPoint
+2. Jupyter Notebook (Python 3)
+3. Python Analytics and Data Science Libraries:
+   * fbprophet
+   * numpy
+   * pandas
+   * matplotlib
+   * seaborn
+   * statsmodels
+   * scipy
+   * pylab
+   * sklearn
+   * math
+   * FastAPI
+   
+  ### Other Knowledge
+  1. Applied Mathematics (for the KPI Mathematical Definition's Development)
+  2. Statistics (required for the understanding and application of Data Science Methods)
