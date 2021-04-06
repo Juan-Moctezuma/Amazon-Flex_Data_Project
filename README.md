@@ -11,7 +11,7 @@ delivery performance, shift duration, total package number per block, etc. This 
 data science.
 
 ### Quick Links
-1. Presentation (PDF - PREFERRED: ```diff - PLEASE CLICK```): https://github.com/Juan-Moctezuma/Amazon-Flex_Data_Project/blob/main/Amazon-Flex_Data_Project.pdf
+1. Presentation (PDF - PREFERRED: <span style="color:blue">PLEASE CLICK</span>): https://github.com/Juan-Moctezuma/Amazon-Flex_Data_Project/blob/main/Amazon-Flex_Data_Project.pdf
 2. Presentation (PowerPoint): https://github.com/Juan-Moctezuma/Amazon-Flex_Data_Project/blob/main/Amazon-Flex_Data_Project.pptx
 
 ### Jupyter Notebook Links - Data Engineering
