@@ -29,6 +29,9 @@ covers the following fields: business analytics, data engineering, and data scie
 1. KPI & Fuel Metrics: https://nbviewer.jupyter.org/github/Juan-Moctezuma/Amazon-Flex_Data_Project/blob/main/DATA_SCIENCE/DASHBOARD/KPI_and_Fuel_Metrics.ipynb
 2. Data Science Visual Summary: https://nbviewer.jupyter.org/github/Juan-Moctezuma/Amazon-Flex_Data_Project/blob/main/DATA_SCIENCE/DASHBOARD/Data_Science-Dashboard.ipynb
 
+### Amazon Official Performance Reports
+1. Image Reports (in .png): https://github.com/Juan-Moctezuma/Amazon-Flex_Data_Project/tree/main/Amazon_Official_Performance_Evidence/
+
 ### Technologies
 1. Microsoft Office:
    * Excel
